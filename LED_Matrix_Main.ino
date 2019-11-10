@@ -80,13 +80,11 @@ void setup() {
 }
 
 void loop() {
-//  int x, y, s;
-//  x = analogRead(Vx);
-//  y = analogRead(Vy);
-//  s = analogRead(Sw);
-//  
-//
-//
+  int x, y, s;
+  x = analogRead(Vx);
+  y = analogRead(Vy);
+  s = analogRead(Sw);
+
   for (int i = 1; i < 17; i++) {
     for (int j = 1; j < 17; j++) {
       LED_XY(j, 1);
