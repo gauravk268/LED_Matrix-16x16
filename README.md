@@ -1,7 +1,7 @@
 # LED_Matrix-16x16
 
 <h4>
-  A 16x 16 (16 rows and 16 columns) LED_Matrix controlled by Arduino UNO and 4x IC74hc595 shift registers.
+A 16x 16 (16 rows and 16 columns) LED_Matrix controlled by Arduino UNO and 4x IC74hc595 shift registers.
 The main aim of making this project is to make small monitors, which are used in daily life devices, 
 making them more useful, efficient, omnipresent and portable. In this project we are using the LED Matrix 
 as a monitor to display the games that the user will play using the joystick mounted on the project board.
